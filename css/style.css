@@ -1,0 +1,54 @@
+body{
+    background: url(../com.jpg);
+    background-size: cover;
+
+}
+
+h3{
+    border: 6px dotted blue;
+}
+
+h5.color{
+    background-color: blueviolet;
+}
+.color{
+    background-color: aqua;
+}
+#col{
+    color: brown;
+}
+.fs{
+    font-size: 30px;
+}
+p.center {
+    text-align: center;
+    color: rgb(115, 130, 0);
+  }
+  
+  p.large {
+    font-size: 300%;
+  }
+  *
+  {
+    color: green
+    ;
+  }
+  h1, h2, p {
+    text-align: center;
+    color: red;}
+    
+    div {
+        border: 12px solid red;
+        margin-top: 100px;
+        margin-bottom: 500px;
+        margin-right: 120px;
+        margin-left: 200px;
+        background-color: rgb(182, 230, 173);
+        padding-top: 50px;
+        padding-right: 10px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        width: 500pt;
+        font-size:xx-large;
+        color: crimson
+      }
